@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ClassLibrary": "1.0.0-*"
+  },
+  "frameworks": {
+    "dnx451": { }
+  }
+}
